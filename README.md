@@ -25,7 +25,7 @@ f3  f5
 
 c3  c5
 
-HadoopMR$ head -50 purchases.txt } purchase_self_testfile
+HadoopMR$ head -50 purchases.txt > purchase_self_testfile
 
 HadoopMR$ cat purchase_self_testfile | ./mapper_store_sales_count.py
 
