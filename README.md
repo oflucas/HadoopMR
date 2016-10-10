@@ -3,7 +3,7 @@
 ## Projects Statement
 Learn about Hadoop Distributed File System and MapReduce methodology.
 
-Summarize and count total sales over a huge nummber of store records.
+Summarize and categorize total sales for specific stores over a 1M-entries global transaction ledger.
 
 ## Codes
 - Mapper : mapper_store_sales_count.py
